@@ -1,0 +1,22 @@
+{
+  "name": "raspi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyExplosions/raspi.git"
+  },
+  "author": "Al Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinyExplosions/raspi/issues"
+  },
+  "homepage": "https://github.com/TinyExplosions/raspi#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
